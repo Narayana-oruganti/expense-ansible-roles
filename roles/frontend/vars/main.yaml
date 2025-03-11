@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.naws81s.online
+app_location: /usr/share/nginx/html
+component: backend
